@@ -4,7 +4,7 @@ Es ist eine Kommunikation zwischen Arduinos zu implementieren. Es gibt verschied
 
 * Stufe eins:
 
-  Es ist eine unidirektionale Kommunikation zu implementieren. Hierbei soll durch eine Aktion am Sender-Arduino ein LED auf dem Empfaenger Arduino getogglet werden.
+  Es ist eine unidirektionale Kommunikation zu implementieren. Hierbei soll durch eine Aktion am Sender-Arduino ein LED auf dem Empfaenger Arduino geschalten werden.
   
 * Stufe zwei:
 
@@ -16,10 +16,12 @@ Es ist eine Kommunikation zwischen Arduinos zu implementieren. Es gibt verschied
   
 ## Aufgabenstellung
 
-Bis zum Ende der Doppelstunde ist ein Entscheidung fuer die Stufe zu treffen.
-Des weiteren muss ein Dokument (PDF/TXT) erstellt werden in welchem Sie sich fuer eine Technologie entscheiden. 
-Die benoetigte elektrische Beschaltung muss beschrieben werden.
-Libraries die zur Umsetzung in Frage kommen sollen identifiziert werden.
+Bis zum Ende der Doppelstunde sind folgende Punkte zu ueberlegen und in einem Dokument (PDF/TXT) zusammenzufassen.
+* Es werden Zweiergruppen gebildet. (Beide Gruppenteilnehmer geben das Dokument ab)
+* Die Entscheidung fuer eine Schwierigkeitsstufe ist zu treffen.
+* Eine Entscheidung ueber die geplante Technologie wird getroffen.
+* Die benoetigte elektrische Beschaltung muss beschrieben werden.
+* Libraries, die zur Umsetzung in Frage kommen, sollen identifiziert werden.
 
 ## Tips
 
